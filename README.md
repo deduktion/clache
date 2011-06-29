@@ -2,6 +2,8 @@
 
 A cache library for Clojure implementing different strategies.
 
+[annotated source](http://www.fogus.me/fun/clache/)
+
 # done
 
 - basic cache
